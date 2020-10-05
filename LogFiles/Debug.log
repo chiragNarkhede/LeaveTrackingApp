@@ -1,0 +1,25 @@
+07:33:43.184 [main] DEBUG commonUtils.ListenerTestNG - onStart method started
+07:36:25.295 [main] DEBUG commonUtils.ListenerTestNG - Test Method skipped.check
+07:36:25.307 [main] DEBUG commonUtils.ListenerTestNG - onFinish method started
+07:39:35.264 [main] DEBUG commonUtils.ListenerTestNG - onStart method started
+07:42:07.229 [main] DEBUG commonUtils.ListenerTestNG - Test Method skipped.check
+07:42:07.237 [main] DEBUG commonUtils.ListenerTestNG - onFinish method started
+07:47:14.943 [main] DEBUG commonUtils.ListenerTestNG - onStart method started
+07:49:19.591 [main] DEBUG commonUtils.ListenerTestNG - Test Method skipped.check
+07:49:19.603 [main] DEBUG commonUtils.ListenerTestNG - onFinish method started
+07:59:06.996 [main] DEBUG commonUtils.ListenerTestNG - onStart method started
+07:59:07.448 [main] DEBUG commonUtils.ListenerTestNG - Test Method skipped.check
+07:59:07.464 [main] DEBUG commonUtils.ListenerTestNG - onFinish method started
+17:17:47.031 [main] DEBUG base.TestBase - Browser closed
+17:22:44.212 [main] DEBUG base.TestBase - Browser closed
+17:28:12.618 [main] DEBUG base.TestBase - Browser closed
+17:42:28.115 [main] DEBUG commonUtils.ListenerTestNG - onStart method started
+17:42:46.202 [main] DEBUG commonUtils.ListenerTestNG - Test Started.check
+17:43:15.360 [main] DEBUG commonUtils.ListenerTestNG - Success Test Methodcheck
+17:43:20.347 [main] DEBUG base.TestBase - Browser closed
+17:43:20.347 [main] DEBUG commonUtils.ListenerTestNG - onFinish method started
+17:48:17.667 [main] DEBUG commonUtils.ListenerTestNG - onStart method started
+17:48:28.093 [main] DEBUG commonUtils.ListenerTestNG - Test Started.check
+17:48:42.069 [main] DEBUG commonUtils.ListenerTestNG - Success Test Methodcheck
+17:48:45.509 [main] DEBUG base.TestBase - Browser closed
+17:48:45.509 [main] DEBUG commonUtils.ListenerTestNG - onFinish method started

@@ -1,0 +1,29 @@
+06:25:05.134 [main] DEBUG functionTest.ApplyLeave - Setup is started
+06:36:09.847 [main] INFO  functionTest.ApplyLeave - BrowserOpened
+06:36:09.940 [main] INFO  functionTest.ApplyLeave - Insert User Name
+06:36:11.349 [main] INFO  functionTest.ApplyLeave - Insert password
+06:36:16.042 [main] INFO  functionTest.ApplyLeave - User logged into the application.
+06:36:20.287 [main] INFO  functionTest.ApplyLeave - Select Leave
+06:36:20.287 [main] ERROR functionTest.ApplyLeave - Select Leave
+06:36:20.287 [main] ERROR functionTest.ApplyLeave - Select Leave
+06:45:13.260 [main] INFO  functionTest.ApplyLeave - BrowserOpened
+06:45:13.261 [main] INFO  functionTest.ApplyLeave - Insert User Name
+06:45:13.583 [main] INFO  functionTest.ApplyLeave - Insert password
+06:45:16.184 [main] INFO  functionTest.ApplyLeave - User logged into the application.
+06:45:21.479 [main] INFO  functionTest.ApplyLeave - Select Leave
+06:45:21.479 [main] ERROR functionTest.ApplyLeave - Select Leave
+06:45:21.481 [main] ERROR functionTest.ApplyLeave - Select Leave
+06:49:45.163 [main] INFO  functionTest.ApplyLeave - BrowserOpened
+06:49:45.163 [main] INFO  functionTest.ApplyLeave - Insert User Name
+06:49:45.430 [main] INFO  functionTest.ApplyLeave - Insert password
+06:49:48.076 [main] INFO  functionTest.ApplyLeave - User logged into the application.
+06:49:53.871 [main] INFO  functionTest.ApplyLeave - Select Leave
+06:49:53.872 [main] ERROR functionTest.ApplyLeave - Select Leave
+06:49:53.873 [main] ERROR functionTest.ApplyLeave - Select Leave
+07:03:01.484 [main] INFO  functionTest.ApplyLeave - BrowserOpened
+07:03:01.707 [main] INFO  functionTest.ApplyLeave - Insert User Name
+07:03:02.471 [main] INFO  functionTest.ApplyLeave - Insert password
+07:03:05.775 [main] INFO  functionTest.ApplyLeave - User logged into the application.
+07:03:09.199 [main] INFO  functionTest.ApplyLeave - Select Leave
+07:03:09.199 [main] ERROR functionTest.ApplyLeave - Select Leave
+07:03:09.203 [main] ERROR functionTest.ApplyLeave - Select Leave

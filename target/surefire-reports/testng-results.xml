@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="173064" started-at="2020-09-15T12:51:14Z" finished-at="2020-09-15T12:54:07Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="173064" started-at="2020-09-15T12:51:14Z" finished-at="2020-09-15T12:54:07Z">
+      <class name="functionTest.CreateNewLeave">
+        <test-method status="PASS" signature="setup()[pri:0, instance:functionTest.CreateNewLeave@f17f954b]" name="setup" is-config="true" duration-ms="94656" started-at="2020-09-15T12:51:14Z" finished-at="2020-09-15T12:52:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="check()[pri:0, instance:functionTest.CreateNewLeave@f17f954b]" name="check" duration-ms="49829" started-at="2020-09-15T12:52:49Z" description="Verify new leave is created." finished-at="2020-09-15T12:53:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:functionTest.CreateNewLeave@f17f954b]" name="tearDown" is-config="true" duration-ms="28414" started-at="2020-09-15T12:53:39Z" finished-at="2020-09-15T12:54:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- functionTest.CreateNewLeave -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

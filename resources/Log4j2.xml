@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Configuration status="WARN">
+
+	<Properties>
+		<Property name="basePath">logFiles</Property>
+	</Properties>
+
+	<Appenders>
+>
+		<RollingFile name="DebugFile" fileName="${basePath}/Debug.log"
+			filePattern="${basePath}/Debug-%d{yyyy-MM-dd-HH-mm-ss}.log">
+
+			<PatternLayout
+				pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n" />
+
+			<SizeBasedTriggeringPolicy size="5Kb" />
+
+		</RollingFile>
+			<RollingFile name="ErrorFile" fileName="${basePath}/Error.log"
+			filePattern="${basePath}/Error-%d{yyyy-MM-dd-HH-mm-ss}.log">
+
+			<PatternLayout
+				pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n" />
+
+			<SizeBasedTriggeringPolicy size="5Kb" />
+
+		</RollingFile>
+		
+
+
+	</Appenders>
+
+	<Loggers>
+
+		<Root level="trace">
+
+			<AppenderRef ref="ErrorFile" level="error" />
+			<AppenderRef ref="DebugFile" level="debug" />
+			
+			
+</Root>
+		
+
+	</Loggers>
+	
+
+</Configuration>

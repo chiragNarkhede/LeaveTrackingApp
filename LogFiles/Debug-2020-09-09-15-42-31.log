@@ -1,0 +1,66 @@
+22:48:23.906 [main] DEBUG functionTest.ApplyLeave - Landed to Leave page.true
+22:48:24.058 [main] DEBUG functionTest.ApplyLeave - Test Started.Test
+22:48:30.302 [main] DEBUG functionTest.ApplyLeave - Setting leave detail into Object
+22:48:36.072 [main] DEBUG functionTest.ApplyLeave - Test Method Failure.Test
+22:48:38.129 [main] DEBUG functionTest.ApplyLeave - Browser closed
+22:48:38.129 [main] DEBUG functionTest.ApplyLeave - onFinish method started
+10:17:00.608 [main] DEBUG functionTest.ApplyLeave - onStart method started
+10:20:01.873 [main] DEBUG functionTest.ApplyLeave - Test Method skipped.Test
+10:20:01.881 [main] DEBUG functionTest.ApplyLeave - onFinish method started
+10:20:15.348 [main] DEBUG functionTest.ApplyLeave - onStart method started
+10:22:49.493 [main] DEBUG functionTest.ApplyLeave - User logged into the application.
+10:22:49.493 [main] DEBUG functionTest.ApplyLeave - Navigate to Leave Page
+10:23:18.807 [main] DEBUG functionTest.ApplyLeave - Landed to Leave page.true
+10:23:18.842 [main] DEBUG functionTest.ApplyLeave - Test Started.Test
+10:24:49.732 [main] DEBUG functionTest.ApplyLeave - Setting leave detail into Object
+10:26:11.529 [main] DEBUG functionTest.ApplyLeave - Test Method Failure.Test
+10:26:41.287 [main] DEBUG functionTest.ApplyLeave - onFinish method started
+11:51:33.479 [main] DEBUG functionTest.ApplyLeave - onStart method started
+11:57:28.130 [main] DEBUG functionTest.ApplyLeave - User logged into the application.
+11:57:28.131 [main] DEBUG functionTest.ApplyLeave - Navigate to Leave Page
+11:57:40.166 [main] DEBUG functionTest.ApplyLeave - Landed to Leave page.true
+11:57:40.509 [main] DEBUG functionTest.ApplyLeave - Test Started.Test
+11:59:26.255 [main] DEBUG functionTest.ApplyLeave - Test Method Failure.Test
+11:59:26.500 [main] DEBUG functionTest.ApplyLeave - Test Method Failure.Test
+11:59:46.561 [main] DEBUG functionTest.ApplyLeave - onFinish method started
+14:40:05.099 [main] DEBUG functionTest.ApplyLeave - onStart method started
+14:44:01.282 [main] DEBUG functionTest.ApplyLeave - User logged into the application.
+14:44:01.282 [main] DEBUG functionTest.ApplyLeave - Navigate to Leave Page
+14:44:07.231 [main] DEBUG functionTest.ApplyLeave - Landed to Leave page.true
+14:44:07.263 [main] DEBUG functionTest.ApplyLeave - Test Started.Test
+14:44:07.319 [main] DEBUG functionTest.ApplyLeave - Click on Add New Leave button
+14:44:10.195 [main] DEBUG functionTest.ApplyLeave - Add New Leave
+14:44:16.484 [main] DEBUG functionTest.ApplyLeave - Setting leave detail into Object
+14:44:16.899 [main] DEBUG functionTest.ApplyLeave - Navigate to Leave Summary page.
+14:44:23.412 [main] DEBUG functionTest.ApplyLeave - Test Method Failure.Test
+14:44:23.480 [main] DEBUG functionTest.ApplyLeave - Test Method Failure.Test
+14:44:32.650 [main] DEBUG functionTest.ApplyLeave - Browser closed
+14:44:32.650 [main] DEBUG functionTest.ApplyLeave - onFinish method started
+15:09:20.472 [main] DEBUG functionTest.ApplyLeave - onStart method started
+15:10:27.022 [main] DEBUG functionTest.ApplyLeave - Test Method skipped.Test
+15:10:27.029 [main] DEBUG functionTest.ApplyLeave - onFinish method started
+15:12:22.406 [main] DEBUG functionTest.ApplyLeave - onStart method started
+15:14:00.388 [main] DEBUG functionTest.ApplyLeave - User logged into the application.
+15:14:00.389 [main] DEBUG functionTest.ApplyLeave - Navigate to Leave Page
+15:14:16.187 [main] DEBUG functionTest.ApplyLeave - Landed to Leave page.true
+15:14:16.249 [main] DEBUG functionTest.ApplyLeave - Test Started.Test
+15:14:16.329 [main] DEBUG functionTest.ApplyLeave - Click on Add New Leave button
+15:15:03.331 [main] DEBUG functionTest.ApplyLeave - Add New Leave
+15:16:09.188 [main] DEBUG functionTest.ApplyLeave - Setting leave detail into Object
+15:16:09.573 [main] DEBUG functionTest.ApplyLeave - Navigate to Leave Summary page.
+15:16:48.433 [main] DEBUG functionTest.ApplyLeave - Test Method Failure.Test
+15:16:48.508 [main] DEBUG functionTest.ApplyLeave - Test Method Failure.Test
+15:16:55.772 [main] DEBUG functionTest.ApplyLeave - Browser closed
+15:16:55.772 [main] DEBUG functionTest.ApplyLeave - onFinish method started
+15:38:42.263 [main] DEBUG functionTest.ApplyLeave - onStart method started
+15:40:01.922 [main] DEBUG functionTest.ApplyLeave - User logged into the application.
+15:40:01.922 [main] DEBUG functionTest.ApplyLeave - Navigate to Leave Page
+15:40:28.034 [main] DEBUG functionTest.ApplyLeave - Landed to Leave page.true
+15:40:28.075 [main] DEBUG functionTest.ApplyLeave - Test Started.Test
+15:40:28.185 [main] DEBUG functionTest.ApplyLeave - Click on Add New Leave button
+15:42:11.800 [main] DEBUG functionTest.ApplyLeave - Add New Leave
+15:42:21.315 [main] DEBUG functionTest.ApplyLeave - Setting leave detail into Object
+15:42:21.699 [main] DEBUG functionTest.ApplyLeave - Navigate to Leave Summary page.
+15:42:29.022 [main] DEBUG functionTest.ApplyLeave - Test Method Failure.Test
+15:42:29.095 [main] DEBUG functionTest.ApplyLeave - Test Method Failure.Test
+15:42:31.952 [main] DEBUG functionTest.ApplyLeave - Browser closed
